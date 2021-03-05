@@ -1,0 +1,45 @@
+﻿今天是20201年2月26日：雨
+记录三颗花生与我之前写的vue项目的不同之处：
+1.路由
+浅谈Vue中的路由配置项meta：
+https://blog.csdn.net/Ares0412/article/details/98795576?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-1.compare&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-1.compare
+vue面包屑实现方法:
+https://www.jianshu.com/p/c179440fab4a
+2.fetch   polyfill
+fetch使用的常见问题及解决办法:
+https://www.cnblogs.com/wonyun/p/fetch_polyfill_timeout_jsonp_cookie_progress.html
+Polyfill是什么啊 为什么他拿给你解决兼容问题:
+https://segmentfault.com/q/1010000006796739
+export 和 export default 的区别:
+https://www.cnblogs.com/fanyanzhao/p/10298543.html
+es6读书笔记(六) async await:
+https://blog.csdn.net/u012877217/article/details/113679076
+用 async/await 来处理异步:
+摘抄：原来async 函数返回的是一个promise 对象，如果要获取到promise 返回值，我们应该用then 方法，注意await 关键字只能放到async 函数里面
+https://www.cnblogs.com/yuanyingke/p/10280681.html
+scss写法;比css多了变量，嵌套，混合，导入等规则：
+ 嵌套规则；父选择器 &；属性嵌套；占位符选择器 %foo；
+变量 $；
+https://www.sass.hk/docs/
+前端知识体系(1)-js篇
+https://juejin.cn/post/6844904160719011848
+前端知识体系(2)-vue篇：
+https://juejin.cn/post/6844904166742048782#heading-11
+前端知识体系(3)-浏览器篇
+https://juejin.cn/post/6844904191018680333
+前端知识体系(4)-js手写函数篇
+https://juejin.cn/post/6854573211397390350
+­————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————
+广发乾和的表
+adm_files
+sys_log
+standard_tables
+以上三表与系统日志和模板设置的功能有关
+strict_configs
+strict_tables
+以上两表与模板的格式有关
++++++++++++++++++++++++++++++++++++++++++++++
+被投企业数据管理
+task_records表
+tasks表
+/tp/a/dict/findDict
